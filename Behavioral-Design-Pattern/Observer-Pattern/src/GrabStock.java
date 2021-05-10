@@ -1,3 +1,9 @@
+/*
+    Observer Pattern says that when one object changes state, all its dependents are notified
+    and updated automatically
+ */
+
+
 public class GrabStock {
 
     public static void main(String[] args) {

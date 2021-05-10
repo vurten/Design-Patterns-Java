@@ -1,6 +1,4 @@
-/*
-    Observer Pattern
- */
+
 
 public interface Subject {
 
